@@ -15,7 +15,7 @@ Jogo de Ping Pong usando programação orientada a objetos. <br/>
 <br>
 
 <p align="center">
-  <img alt="Ping-Pong" src="./files-assets/readme-ping-pong.png" width="100%">
+  <img alt="Ping-Pong" src="./assets/readme-ping-pong.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
